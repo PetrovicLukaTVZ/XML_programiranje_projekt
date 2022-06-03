@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_list>
+    <user>
+        <name>Marko</name>
+        <surname>Marković</surname>
+        <dob>2001-12-05</dob>
+        <nickname>mmarkovic</nickname>
+        <pin>1234</pin>
+    </user>
+    <user>
+        <name>Ivan</name>
+        <surname>Pavlović</surname>
+        <dob>1999-08-25</dob>
+        <nickname>ipavlovic</nickname>
+        <pin>1234</pin>
+    </user>
+    <user>
+        <name>Marija</name>
+        <surname>Marić</surname>
+        <dob>2000-04-15</dob>
+        <nickname>mmaric</nickname>
+        <pin>1234</pin>
+    </user>
+    <user>
+        <name>Petra</name>
+        <surname>Petrić</surname>
+        <dob>1998-02-28</dob>
+        <nickname>ppetric</nickname>
+        <pin>1234</pin>
+    </user>
+</user_list>
